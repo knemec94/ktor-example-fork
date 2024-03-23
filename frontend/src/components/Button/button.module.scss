@@ -1,0 +1,20 @@
+.base {
+  border: none;
+  border-radius: 2px;
+  background: var(--blue-200);
+}
+
+.sm {
+  font-size: 14px;
+  padding: var(--spacing-1) var(--spacing-2);
+}
+
+.md {
+  font-size: 16px;
+  padding: var(--spacing-2) var(--spacing-3);
+}
+
+.lg {
+  font-size: 18px;
+  padding: var(--spacing-3) var(--spacing-4);
+}
