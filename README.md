@@ -14,8 +14,8 @@ This project is built with the following tech stack
 - Backend: Kotlin
 - Database: PostgreSQL
 
-The project is built and started using Docker compose.
-To build and start the project, run the following command from the root: `docker-compose up --build`.
+The backend and database is built and started using Docker compose.
+To build and start the above, run the following command from the root: `docker-compose up --build`.
 You can install docker here https://www.docker.com/products/docker-desktop/
 
 ## Backend
